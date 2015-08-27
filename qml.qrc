@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/qt-logo.png</file>
+        <file>twitter-stream.js</file>
+        <file>Tweet.qml</file>
+        <file>zepto.js</file>
+        <file>backbone.js</file>
+        <file>underscore.js</file>
+    </qresource>
+</RCC>
